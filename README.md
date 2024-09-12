@@ -1,6 +1,6 @@
 # Flipkart Sentiment Analysis
 
-![Flipkart Logo]([https://example.com/path/to/flipkart_logo.png](https://th.bing.com/th/id/OIP.Zbwq8CMb4CD6oaapV2vgSgHaEK?w=266&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7))
+<center><img src="https://th.bing.com/th/id/OIP.Bu2bbcOjGBX3H76RlFo3DwHaEK?w=307&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=700></center>
 
 
 
